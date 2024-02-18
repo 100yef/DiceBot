@@ -1,0 +1,17 @@
+# System
+COMMAND_START = 'start'
+COMMAND_HELP = 'help'
+COMMAND_STATS = 'stats'
+COMMAND_USER = 'user'
+COMMAND_LAUNCH_SECONDS = 'launchsec'
+COMMAND_LAUNCH_TIME = 'launch'
+# Game
+COMMAND_ROLL = 'roll3'
+COMMAND_ROUND_LEADERS = 'rlead'
+COMMAND_GAME_LEADERS = 'toplead'
+COMMAND_QUESTION = 'question'
+COMMAND_PRIZE = 'prize'
+
+ADMIN_IDS = [
+    873527192,
+]
